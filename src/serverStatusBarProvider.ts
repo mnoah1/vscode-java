@@ -11,7 +11,7 @@ class ServerStatusBarProvider implements Disposable {
 
 	constructor() {
 		this.statusBarItem = window.createStatusBarItem("java.serverStatus", StatusBarAlignment.Left);
-		this.statusBarItem.show();
+		this.statusBarItem.hide();
 	}
 
 	public showLightWeightStatus(): void {
