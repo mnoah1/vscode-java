@@ -1,11 +1,11 @@
 {
   "name": "java",
-  "displayName": "Language Support for Java(TM) by Red Hat",
+  "displayName": "Language Support for Java(TM) by Red Hat (Uber Fork)",
   "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
   "author": "Red Hat",
   "icon": "icons/icon128.png",
   "license": "EPL-2.0",
-  "version": "1.41.0",
+  "version": "1.41.0-uber",
   "publisher": "redhat",
   "bugs": "https://github.com/redhat-developer/vscode-java/issues",
   "preview": false,
